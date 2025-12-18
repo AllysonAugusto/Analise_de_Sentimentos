@@ -36,4 +36,3 @@ insights de negócio, como:
 ```bash
 pip install -r requirements.txt
 ```
-=======
