@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Análise de Sentimentos em Avaliações de Produtos
 Amazon e Mercado Livre
 
@@ -38,5 +37,3 @@ insights de negócio, como:
 pip install -r requirements.txt
 ```
 =======
-
->>>>>>> cbf04ae2b272ba211d11c92303d2b2045f3953d2
